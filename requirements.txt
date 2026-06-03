@@ -1,0 +1,14 @@
+Streamlit
+pandas
+numpy
+scikit-learn
+joblib
+category-encoders
+classifiers
+Binary - Logistic Regression
+       - Decision Tree
+       - KNN
+Multiclass - SVM
+           - XGBoost
+           - Random Forest
+           - MLP
